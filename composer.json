@@ -1,0 +1,22 @@
+{
+    "name": "hackerpro536/phpcrypt",
+    "type": "library",
+    "description": "PHP_Crypt is security and hash everything like password hard and not decrypt",
+    "keywords": ["PHP_Crypt","Crypt", "Encode", "password", "security", "php-crypt", "hash"],
+    "homepage": "https://github.com/hackerpro536/PHP_Crypt",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Le Van Phu",
+            "email": "hackerpro536@gmail.com",
+            "homepage": "https://github.com/hackerpro536/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": ["phpCrypt.php"]
+    }
+}
