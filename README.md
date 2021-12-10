@@ -6,6 +6,18 @@ Project information
 - Project Manager: [HackerPro536](http://levanphu.info) <hackerpro536@gmail.com>.
 - Copyrights: 2017 LP Group.
 - Version: 0.1
+
+Our Service - Dịch vụ của chúng tôi
+----------------------------
+<ul>
+    <li><a href="https://lptech.asia/dich-vu/thiet-ke-website-lp-tech">Dịch vụ thiết kế website</a></li>
+    <li><a href="https://lptech.asia/dich-vu/dich-vu-seo-chuyen-nghiep-tai-tp-ho-chi-minh">Dịch vụ SEO</a></li>
+    <li><a href="https://lptech.asia/dich-vu/dich-vu-booking-kol-influencer-uy-tin-tang-nhan-dien-thuong-hieu">Dịch vụ Kols</a></li>
+    <li><a href="https://lptech.asia/dich-vu/dich-vu-booking-pr-bao-chi-uy-tin-cho-doanh-nghiep">Dịch vụ Pr Booking</a></li>
+    <li><a href="https://lptech.asia/dich-vu/dich-vu-content-website-viet-bai-chuyen-nghiep-chuan-seo">Dịch vụ Content</a></li>
+    <li><a href="https://lptech.asia/dich-vu/giai-phap-marketing-tong-the-cho-doanh-nghiep-vua-va-nho">Dịch vụ Marketing tổng thể</a></li>
+</ul>
+
 Installation
 ----------------
 ### System requirements
