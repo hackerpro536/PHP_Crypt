@@ -3,15 +3,15 @@
 Project information
 ----------------------------
 - Started: 20 September 2017.
-- Project Manager: [HackerPro536](http://levanphu.info) <hackerpro536@gmail.com>.
+- Project Manager: [Le Van Phu](https://lptech.asia) <phu.lv@lptech.asia>.
 - Copyrights: 2017 LP Group.
 - Version: 0.1
 
 Our Service - Dịch vụ của chúng tôi
 ----------------------------
 <ul>
-    <li><a href="https://lptech.asia/dich-vu/thiet-ke-website-lp-tech">Dịch vụ thiết kế website</a></li>
-    <li><a href="https://lptech.asia/dich-vu/dich-vu-seo-chuyen-nghiep-tai-tp-ho-chi-minh">Dịch vụ SEO</a></li>
+    <li><a href="https://lptech.asia/dich-vu/thiet-ke-website">Dịch vụ thiết kế website</a></li>
+    <li><a href="https://lptech.asia/dich-vu/dich-vu-seo">Dịch vụ SEO</a></li>
     <li><a href="https://lptech.asia/dich-vu/dich-vu-booking-kol-influencer-uy-tin-tang-nhan-dien-thuong-hieu">Dịch vụ Kols</a></li>
     <li><a href="https://lptech.asia/dich-vu/dich-vu-booking-pr-bao-chi-uy-tin-cho-doanh-nghiep">Dịch vụ Pr Booking</a></li>
     <li><a href="https://lptech.asia/dich-vu/dich-vu-content-website-viet-bai-chuyen-nghiep-chuan-seo">Dịch vụ Content</a></li>
